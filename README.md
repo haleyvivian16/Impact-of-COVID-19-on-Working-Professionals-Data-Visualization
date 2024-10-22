@@ -7,6 +7,8 @@ This project analyzes the impact of the COVID-19 pandemic on working professiona
 ## Key Questions
 This dashboard is designed to explore key insights into the long-term effects of COVID-19 on the workplace. By examining various dimensions such as work hours, productivity, and employee well-being, it aims to provide valuable behavioral analysis that highlights the pandemic's impact on working professionals. Additionally, this dashboard serves as a predictive model to facilitate informed decision-making and make relevant data accessible to stakeholders seeking to understand and address the evolving dynamics of the modern workplace.
 
+These are the key questions to achieve the above stated goal:
+
 - **How has the pandemic affected work hours?**
   - What percentage of individuals experienced an increase in work hours due to the pandemic?
   - Are there significant differences in work hour changes across different sectors?
