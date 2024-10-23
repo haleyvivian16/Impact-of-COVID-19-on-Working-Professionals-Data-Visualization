@@ -41,15 +41,15 @@ These are the key questions to achieve the above stated goal:
 | Sector                        | Categorical| The sector in which the individual is employed, providing context for the data and potential sector-specific impacts. |
 | Affected_by_Covid             | Binary     | Indicates whether the individual’s work life was affected by COVID-19. This column is biased towards affected individuals (predominantly 1s). |
 
-## How to view the Dashboard!
-- ![Screenshot of Power BI report](covid_workforce/dashboard_overview.png)
+## Dashboard Visualization!
+![Screenshot of Power BI report](covid_workforce/dashboard_overview.png)
 - To View and Download the Original Dashboard, go to the [*covid_workforce*](covid_workforce) folder and download the raw *.pbix* file. 
 
 ## Key Conclusions
 Looking at the above dashboard, we can now make some conclusions about our earlier established goals for this project:
 
 - **What is the impact of remote work on productivity and stress levels?**
-  - Based on the dashboard remote work has a mixed impact on productivity. Those working from home generally experienced an increase in productivity, but it also correlates with varying stress levels. Individuals with medium stress levels reported the highest productivity gains, while those with high stress levels saw less improvement. This suggests that while remote work can enhance productivity, managing stress is a critical factor.
+  - Based on the dashboard, remote work has a mixed impact on productivity. Those working from home generally experienced an increase in productivity, but it also correlates with varying stress levels. Individuals with medium stress levels reported the highest productivity gains, while those with high stress levels saw less improvement. This suggests that while remote work can enhance productivity, managing stress is a critical factor.
     
 - **What are the effects of increased childcare responsibilities and their subsequent impact on productivity and stress levels since the pandemic?**
   - Childcare responsibilities have had a significant impact on both productivity and stress levels. Individuals with medium levels of stress reported the highest increase in childcare responsibilities, but surprisingly, they also saw moderate productivity gains. In contrast, those with high stress levels saw a more pronounced decline in productivity, highlighting that increased childcare responsibilities add to the stress burden and reduce productivity for many working professionals.
