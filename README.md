@@ -53,8 +53,6 @@ These are the key questions to achieve the above stated goal:
 | Sector                        | Categorical| The sector in which the individual is employed, providing context for the data and potential sector-specific impacts. |
 | Affected_by_Covid             | Binary     | Indicates whether the individual’s work life was affected by COVID-19. This column is biased towards affected individuals (predominantly 1s). |
 
-## Visualizations
-- Screenshot Power BI report.
-
-## How to View the Dashboard
-You can explore the interactive Power BI dashboard [here](link_to_dashboard).
+## How to view the Dashboard!
+- ![Screenshot of Power BI report](covid_workforce/dashboard_overview.png)
+- ![Download and View Original Dashboard](covid_workforce/covid_workforce_dash.pbix)
