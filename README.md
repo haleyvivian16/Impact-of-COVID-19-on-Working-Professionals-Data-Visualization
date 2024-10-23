@@ -1,4 +1,6 @@
 # Impact of COVID-19 on Working Professionals: Power BI Dashboard
+### Haley Vivian
+
 ## Project Overview
 This project analyzes the impact of the COVID-19 pandemic on working professionals, focusing on employment status, remote work adoption, and salary changes across different industries.
 - Tools: Power BI and Excel
