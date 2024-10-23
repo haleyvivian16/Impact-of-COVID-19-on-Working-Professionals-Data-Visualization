@@ -2,12 +2,12 @@
 ### by Haley Vivian
 
 ## Project Overview
-This project analyzes the impact of the COVID-19 pandemic on working professionals, focusing on employment status, remote work adoption, and salary changes across different industries.
+This project analyzes the impact of the COVID-19 pandemic on working professionals, focusing on employment status, remote work adoption, and other key changes across different industries.
 - Tools: Power BI and Excel
 - Dataset: [[Kaggle Dataset by Normie](https://www.kaggle.com/datasets/gcreatives/impact-of-covid-19-on-working-professionals/data)].
 
 ## Key Questions
-This dashboard is designed to explore key insights into the long-term effects of COVID-19 on the workplace. By examining various dimensions such as work hours, productivity, and employee well-being, it aims to provide valuable behavioral analysis that highlights the pandemic's impact on working professionals. Additionally, this dashboard serves as a predictive model to facilitate informed decision-making and make relevant data accessible to stakeholders seeking to understand and address the evolving dynamics of the modern workplace.
+This dashboard is designed to explore key insights into the long-term effects of COVID-19 on the workplace. By examining various dimensions such as work hours, productivity, and employee well-being, it aims to provide valuable behavioral analysis that highlights the pandemic's impact on working professionals. This dashboard's purpose is to facilitate informed decision-making and make relevant data accessible to stakeholders seeking to understand and address the evolving dynamics of the modern workplace.
 
 These are the key questions to achieve the above stated goal:
     
