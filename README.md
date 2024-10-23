@@ -65,3 +65,6 @@ Looking at the above dashboard, we can now make some conclusions about our earli
  
 - **What is the relationship between commuting changes and work-life balance?**
   - There is a clear link between reduced commuting times and improvements in work-life balance. The dashboard highlights that as commuting changes, average work hours slightly decrease, but productivity show more significant improvements. This suggests that eliminating or reducing commuting can lead to more flexible work schedules, allowing employees to allocate time more efficiently and increase productivity, aiding in overall work-life balance.
+
+## Contact
+For more details or suggestions, feel free to reach out via [LinkedIn](www.linkedin.com/in/-vivianhe) or email: [haleyvivian16@gmail.com].
