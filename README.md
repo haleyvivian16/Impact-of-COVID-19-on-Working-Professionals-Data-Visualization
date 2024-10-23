@@ -55,4 +55,4 @@ These are the key questions to achieve the above stated goal:
 
 ## How to view the Dashboard!
 - ![Screenshot of Power BI report](covid_workforce/dashboard_overview.png)
-- To View and Download the Original Dashboard, go to the ![*covid_workforce*](covid_workforce) folder and download the *.pbix* file. 
+- To View and Download the Original Dashboard, go to the [*covid_workforce*](covid_workforce) folder and download the *.pbix* file. 
