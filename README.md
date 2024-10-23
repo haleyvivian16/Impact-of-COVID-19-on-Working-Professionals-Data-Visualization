@@ -8,30 +8,18 @@ This project analyzes the impact of the COVID-19 pandemic on working professiona
 This dashboard is designed to explore key insights into the long-term effects of COVID-19 on the workplace. By examining various dimensions such as work hours, productivity, and employee well-being, it aims to provide valuable behavioral analysis that highlights the pandemic's impact on working professionals. Additionally, this dashboard serves as a predictive model to facilitate informed decision-making and make relevant data accessible to stakeholders seeking to understand and address the evolving dynamics of the modern workplace.
 
 These are the key questions to achieve the above stated goal:
-
-- **How has the pandemic affected work hours?**
-  - What percentage of individuals experienced an increase in work hours due to the pandemic?
-  - Are there significant differences in work hour changes across different sectors?
     
 - **What is the impact of remote work on productivity and stress levels?**
-  - How does working from home correlate with reported productivity changes?
-  - Is there a relationship between working from home and self-reported stress levels?
     
-- **What are the effects of childcare responsibilities since the pandemic?**
-  - How many individuals reported increased childcare responsibilities?
-  - How do these responsibilities impact productivity and stress levels?
+- **What are the effects of increased childcare responsibilities and their subsequent impact on productivity and stress levels since the pandemic?**
 
-- **How has perception of job security changed since the pandemic?**
-  - What percentage of indidivuals felt less secure in their jobs?
-  - Is there a correlation between percieved job security and the development of new health issues?
- 
-- **What technological adaptations have employees made, and how do they relate to overall satisfaction?**
-  - How many individuals had to adapt to new technologies for remote work?
-  - Does technology adaptation relate to productivity or stress levels?
+- **What percentage of employees had to make technological adaptations, and does it relate to increased productivity?**
+
+- **How has the pandemic affected work hours per sector?**
+
+- **How has perception of job security changed since the pandemic, considering stress and new health issues (both physical and mental) incurred by COVID-19?**
  
 - **What is the relationship between commuting changes and work-life balance?**
-  - How have commuting changes impacted work hours and stress levels?
-  - Are there noticeable trends in commuting changes across different sectors?
 
 ## Variables defined in Database
 
@@ -55,4 +43,25 @@ These are the key questions to achieve the above stated goal:
 
 ## How to view the Dashboard!
 - ![Screenshot of Power BI report](covid_workforce/dashboard_overview.png)
-- To View and Download the Original Dashboard, go to the [*covid_workforce*](covid_workforce) folder and download the *.pbix* file. 
+- To View and Download the Original Dashboard, go to the [*covid_workforce*](covid_workforce) folder and download the raw *.pbix* file. 
+
+## Key Conclusions
+Looking at the above dashboard, we can now make some conclusions about our earlier established goals for this project:
+
+- **What is the impact of remote work on productivity and stress levels?**
+  - Based on the dashboard remote work has a mixed impact on productivity. Those working from home generally experienced an increase in productivity, but it also correlates with varying stress levels. Individuals with medium stress levels reported the highest productivity gains, while those with high stress levels saw less improvement. This suggests that while remote work can enhance productivity, managing stress is a critical factor.
+    
+- **What are the effects of increased childcare responsibilities and their subsequent impact on productivity and stress levels since the pandemic?**
+  - Childcare responsibilities have had a significant impact on both productivity and stress levels. Individuals with medium levels of stress reported the highest increase in childcare responsibilities, but surprisingly, they also saw moderate productivity gains. In contrast, those with high stress levels saw a more pronounced decline in productivity, highlighting that increased childcare responsibilities add to the stress burden and reduce productivity for many working professionals.
+
+- **What percentage of employees had to make technological adaptations, and does it relate to increased productivity?**
+  - According to the dashboard, 60.51% of employees experienced increased productivity while adapting to new technologies as part of their shift to remote work. The data shows a highly positive relationship between these technological adaptations and increased productivity. This suggests that companies who support their employees with technology training could see gains in overall performance.
+
+- **How has the pandemic affected work hours per sector?**
+  - The impact on work hours across the four sectors—IT, Healthcare, Education, and Retail—appears relatively similar, with each sector seeing an increase in work hours of about 25% for their employees. This suggests that while the nature of work in each sector may differ, the overall effect of the pandemic on workload has been consistent across industries. The similarity in increases could indicate that employees in all sectors have faced comparable pressures and demands during the pandemic, regardless of the industry they are in.
+
+- **How has perception of job security changed since the pandemic, considering stress and new health issues (both physical and mental) incurred by COVID-19?**
+  - The dashboard shows a direct connection between perceived job security and the development of new health issues during the pandemic. Those with high stress levels and low job security were more likely to report new health issues, both mental and physical. Employees with medium or low stress levels were less impacted by health problems. This correlation suggests that addressing job security concerns could alleviate some of the health-related, specifically mental-health, challenges workers have faced since the pandemic.
+ 
+- **What is the relationship between commuting changes and work-life balance?**
+  - There is a clear link between reduced commuting times and improvements in work-life balance. The dashboard highlights that as commuting changes, average work hours slightly decrease, but productivity show more significant improvements. This suggests that eliminating or reducing commuting can lead to more flexible work schedules, allowing employees to allocate time more efficiently and increase productivity, aiding in overall work-life balance.
